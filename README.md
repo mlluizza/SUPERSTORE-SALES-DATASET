@@ -36,3 +36,10 @@ A análise de dados foi conduzida com a ajuda das seguintes etapas:
 ### 4️⃣ Ferramentas Utilizadas
 - **Python** (pandas, matplotlib, numpy)
 - **Looker Studio** (para criação de dashboards e visualizações interativas)
+
+### 5️⃣ Visualizações
+As visualizações de dados foram criadas utilizando **Looker Studio**, com gráficos interativos para mostrar:
+
+- Vendas totais por segmento e categoria de produto.
+- Distribuição das vendas por região e modo de envio.
+- Comparação de lucros de diferentes produtos e subcategorias.
