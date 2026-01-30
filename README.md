@@ -16,3 +16,23 @@ Este projeto tem como objetivo a análise de dados de vendas para identificar pa
     - **Método de Coleta**: O arquivo foi importado para o projeto diretamente via upload.
     - **Link do Kaggle**: [Kaggle Dataset]
       ([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting/code))
+      
+### 3️⃣ Análise de Dados
+
+A análise de dados foi conduzida com a ajuda das seguintes etapas:
+
+1. **Limpeza e Pré-processamento dos Dados**
+    - Remoção de valores ausentes ou inconsistentes.
+    - Conversão de formatos de datas e valores monetários para facilitar a análise.
+   
+2. **Análise Exploratória de Dados (EDA)**
+    - Análise descritiva para explorar as principais distribuições e padrões.
+    - Identificação de correlações entre variáveis como vendas, categoria de produto e região.
+   
+3. **Identificação de Insights**
+    - Padrões de vendas por tipo de produto e segmento de cliente.
+    - Impacto do modo de envio e região nas vendas totais.
+  
+### 4️⃣ Ferramentas Utilizadas
+- **Python** (pandas, matplotlib, numpy)
+- **Looker Studio** (para criação de dashboards e visualizações interativas)
