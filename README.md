@@ -44,6 +44,8 @@ As visualizações de dados foram criadas utilizando **Looker Studio**, com grá
 - Distribuição das vendas por região e modo de envio.
 - Comparação de lucros de diferentes produtos e subcategorias
 
+- **Link do Looker Studio**: [Looker Studio Dashboard]
+  (https://lookerstudio.google.com/reporting/f0a0f481-43df-4e11-a4ca-96fd9c6ec280))
 ### 6️⃣ Imagens
 <span>
 <img width="1531" height="873" alt="Image" src="https://github.com/user-attachments/assets/3509d2e3-ab10-44a5-bae9-951c35b0dd8b" />
