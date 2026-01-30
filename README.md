@@ -46,3 +46,4 @@ As visualizações de dados foram criadas utilizando **Looker Studio**, com grá
 
 ### 6️⃣ Imagens
 <span>
+<img width="1531" height="873" alt="Image" src="https://github.com/user-attachments/assets/3509d2e3-ab10-44a5-bae9-951c35b0dd8b" />
