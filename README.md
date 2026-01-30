@@ -42,4 +42,7 @@ As visualizações de dados foram criadas utilizando **Looker Studio**, com grá
 
 - Vendas totais por segmento e categoria de produto.
 - Distribuição das vendas por região e modo de envio.
-- Comparação de lucros de diferentes produtos e subcategorias.
+- Comparação de lucros de diferentes produtos e subcategorias
+
+### 6️⃣ Imagens
+
