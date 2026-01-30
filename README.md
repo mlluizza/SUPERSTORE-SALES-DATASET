@@ -45,4 +45,4 @@ As visualizações de dados foram criadas utilizando **Looker Studio**, com grá
 - Comparação de lucros de diferentes produtos e subcategorias
 
 ### 6️⃣ Imagens
-
+<span>
